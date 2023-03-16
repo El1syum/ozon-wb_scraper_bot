@@ -1,6 +1,6 @@
 # ozon-wb_scraper_bot
 
-*ENG**
+*ENG*
 
 _Before using_:
 
