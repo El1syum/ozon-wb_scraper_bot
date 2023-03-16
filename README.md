@@ -17,6 +17,3 @@ _Before using_:
 # PROBLEMS:
 
 >Ozon scraper doesn't work :(
-
-# TODO:
-# 1. Fix selenium / change it to requests
