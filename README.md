@@ -13,3 +13,10 @@ _Before using_:
         TOKEN=YOUR API TOKEN
         
 3. Download chrome driver to _scripts/ozon/_
+
+# PROBLEMS:
+
+>Ozon scraper doesn't work :(
+
+# TODO:
+# 1. Fix selenium / change it to requests
