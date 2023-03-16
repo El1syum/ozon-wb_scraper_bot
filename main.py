@@ -1,3 +1,6 @@
+# TODO:
+# 1. Fix selenium / change it to requests
+
 import asyncio
 import logging
 import os.path

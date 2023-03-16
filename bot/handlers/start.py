@@ -5,7 +5,7 @@ from aiogram import types, Dispatcher
 
 async def send_welcome(message: types.Message):
     logging.info(message)
-    await message.reply(f'Hello, {message.from_user.first_name}!')
+    await message.reply(f'Привет, {message.from_user.first_name}!')
 
 
 def register_welcome(dp: Dispatcher):
